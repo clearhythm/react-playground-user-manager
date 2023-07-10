@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# React-Playground-User-Manager
+Demo project for managing users in React
 
+# Boilerplate
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
